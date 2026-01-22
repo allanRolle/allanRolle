@@ -1,16 +1,25 @@
-## Hi there 👋
+# Bienvenue 👋<div style='border:1px solid grey'></div>
 
-<!--
-**allanRolle/allanRolle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Ce portfolio présente une sélection de mes projets, outils maîtrisés (comme Cypress, Jira, Playwright, Postman) et approches de test, illustrant ma capacité à assurer la fiabilité, la sécurité et la performance des applications. Mon parcours m'a permis de travailler dans des environnements variés, agiles et exigeants, où j'ai développé une rigueur méthodique, un esprit d'analyse aigu et une forte capacité à identifier les anomalies pour garantir une expérience utilisateur optimale.
 
-Here are some ideas to get you started:
+Bonne visite ! 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Automation Projects<div style='border:1px solid grey'></div>
+
+### ⚙️ API Testing
+
+- <u>[To-do list app - Postman](https://github.com/qa-portfolio/projet-todo-list-api)</u>
+- <u>[Product management app - Postman](https://github.com/qa-portfolio/api-academind)</u>
+
+### 🎞️ E2E & UI Testing
+
+- <u>[To-do List - Cypress](https://github.com/qa-portfolio/todo-list-cypress-test-ui)</u>
+
+## 📝 Mémento<div style='border:1px solid grey'></div>
+
+- <u>[A list of questions / answers to prepare for interviews](https://github.com/qa-portfolio/qa-memento)</u>
+
+## 📜 Certifications<div style='border:1px solid grey'></div>
+
+- <u>🎓 [Certification ISTQB Foundation](https://app.skillsclub.com/credential/282700-82c18dc359baec985ceda36795c16de20fe98e2876cad0625593b4cdbe638b8a)</u>
+- <u>🎓 [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/snpQmpKDSMany-wy1zeHtw?identity__email=allan.chris.rolle@gmail.com)</u>
