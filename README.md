@@ -23,3 +23,8 @@ Bonne visite ! 😄
 
 - <u>🎓 [Certification ISTQB Foundation](https://app.skillsclub.com/credential/282700-82c18dc359baec985ceda36795c16de20fe98e2876cad0625593b4cdbe638b8a)</u>
 - <u>🎓 [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/snpQmpKDSMany-wy1zeHtw?identity__email=allan.chris.rolle@gmail.com)</u>
+
+## 📩 Contact<div style='border:1px solid grey'></div>
+
+- LinkedIn: [@allan-rolle](https://www.linkedin.com/in/allan-rolle/)
+- Email: <span><a href="mailto:allan.rolle@mail.fr">allan.rolle@mail.fr</span>
