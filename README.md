@@ -22,10 +22,13 @@ Bonne visite ! 😄
 ## 🛠 Stack technique<div style='border:1px solid grey'></div>
 
 <div>
-    <img width="52" src="icons/html.svg">
-    <img width="52" src="icons/css.svg">
-    <img width="52" src="icons/javascript.svg">
-    <img width="52" src="icons/typescript.svg">
+    <img width="52" src="icons/html.svg"><!--
+    --><img width="52" src="icons/css.svg"><!--
+    --><img width="52" src="icons/javascript.svg"><!--
+    --><img width="52" src="icons/typescript.svg">
+</div>
+<div>
+
 </div>
 
 ## 📜 Certifications<div style='border:1px solid grey'></div>
