@@ -19,6 +19,15 @@ Bonne visite ! 😄
 
 - <u>[A list of questions / answers to prepare for interviews](https://github.com/qa-portfolio/qa-memento)</u>
 
+## 🛠 Stack technique<div style='border:1px solid grey'></div>
+
+<div>
+    <img width="52" src="icons/html.svg">
+    <img width="52" src="icons/css.svg">
+    <img width="52" src="icons/javascript.svg">
+    <img width="52" src="icons/typescript.svg">
+</div>
+
 ## 📜 Certifications<div style='border:1px solid grey'></div>
 
 - <u>🎓 [Certification ISTQB Foundation](https://app.skillsclub.com/credential/282700-82c18dc359baec985ceda36795c16de20fe98e2876cad0625593b4cdbe638b8a)</u>
@@ -27,4 +36,4 @@ Bonne visite ! 😄
 ## 📩 Contact<div style='border:1px solid grey'></div>
 
 - LinkedIn: [@allan-rolle](https://www.linkedin.com/in/allan-rolle/)
-- Email: <span><a href="mailto:allan.rolle@mail.fr">allan.rolle@mail.fr</span>
+- Email: <span><a href="mailto:allan.rolle@laposte.net">allan.rolle@laposte.net</span>
