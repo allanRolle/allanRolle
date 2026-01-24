@@ -37,6 +37,8 @@ Bonne visite ! 😄
     <img width="52" src="icons-svg/gitlab.svg">
     <img width="52" src="icons-svg/github.svg">
     <img width="52" src="icons-svg/visualstudio.svg">
+    <img width="52" src="icons-svg/agile.svg">
+    <img width="52" src="icons-svg/responsive.svg">
 </div>
 
 ## 📜 Certifications<div style='border:1px solid grey'></div>
