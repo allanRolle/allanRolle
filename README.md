@@ -30,6 +30,7 @@ Bonne visite ! 😄
     <img width="52" src="icons/cucumber.svg">
     <img width="52" src="icons/playwright.svg">
     <img width="52" src="icons/postman.svg">
+    <img width="52" src="icons/api.svg">
     <img width="52" src="icons/jenkins.svg">
     <img width="52" src="icons/jira.svg">
     <img width="52" src="icons/git.svg">
