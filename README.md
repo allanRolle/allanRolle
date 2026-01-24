@@ -29,6 +29,7 @@ Bonne visite ! 😄
     <img width="52" src="icons-svg/cypress.svg">
     <img width="52" src="icons-svg/cucumber.svg">
     <img width="52" src="icons-svg/playwright.svg">
+    <img width="52" src="icons-svg/robotframework.svg">
     <img width="52" src="icons-svg/postman.svg">
     <img width="52" src="icons-svg/api.svg">
     <img width="52" src="icons-svg/jenkins.svg">
