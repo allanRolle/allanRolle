@@ -22,21 +22,21 @@ Bonne visite ! 😄
 ## 🛠 Stack technique<div style='border:1px solid grey'></div>
 
 <div style="text-align:center">
-    <img width="52" src="icons/html.svg">
-    <img width="52" src="icons/css.svg">
-    <img width="52" src="icons/javascript.svg">
-    <img width="52" src="icons/typescript.svg">
-    <img width="52" src="icons/cypress.svg">
-    <img width="52" src="icons/cucumber.svg">
-    <img width="52" src="icons/playwright.svg">
-    <img width="52" src="icons/postman.svg">
-    <img width="52" src="icons/api.svg">
-    <img width="52" src="icons/jenkins.svg">
-    <img width="52" src="icons/jira.svg">
-    <img width="52" src="icons/git.svg">
-    <img width="52" src="icons/gitlab.svg">
-    <img width="52" src="icons/github.svg">
-    <img width="52" src="icons/visualstudio.svg">
+    <img width="52" src="icons-svg/html.svg">
+    <img width="52" src="icons-svg/css.svg">
+    <img width="52" src="icons-svg/javascript.svg">
+    <img width="52" src="icons-svg/typescript.svg">
+    <img width="52" src="icons-svg/cypress.svg">
+    <img width="52" src="icons-svg/cucumber.svg">
+    <img width="52" src="icons-svg/playwright.svg">
+    <img width="52" src="icons-svg/postman.svg">
+    <img width="52" src="icons-svg/api.svg">
+    <img width="52" src="icons-svg/jenkins.svg">
+    <img width="52" src="icons-svg/jira.svg">
+    <img width="52" src="icons-svg/git.svg">
+    <img width="52" src="icons-svg/gitlab.svg">
+    <img width="52" src="icons-svg/github.svg">
+    <img width="52" src="icons-svg/visualstudio.svg">
 </div>
 
 ## 📜 Certifications<div style='border:1px solid grey'></div>
