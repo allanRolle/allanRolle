@@ -22,24 +22,24 @@ Bonne visite ! 😄
 ## 🛠 Stack technique<div style='border:1px solid grey'></div>
 
 <div style="text-align:center">
-    <img width="52" src="icons-svg/html.svg">
-    <img width="52" src="icons-svg/css.svg">
-    <img width="52" src="icons-svg/javascript.svg">
-    <img width="52" src="icons-svg/typescript.svg">
-    <img width="52" src="icons-svg/cypress.svg">
-    <img width="52" src="icons-svg/cucumber.svg">
-    <img width="52" src="icons-svg/playwright.svg">
-    <img width="52" src="icons-svg/robotframework.svg">
-    <img width="52" src="icons-svg/postman.svg">
-    <img width="52" src="icons-svg/api.svg">
-    <img width="52" src="icons-svg/jenkins.svg">
-    <img width="52" src="icons-svg/jira.svg">
-    <img width="52" src="icons-svg/git.svg">
-    <img width="52" src="icons-svg/gitlab.svg">
-    <img width="52" src="icons-svg/github.svg">
-    <img width="52" src="icons-svg/visualstudio.svg">
-    <img width="52" src="icons-svg/agile.svg">
-    <img width="52" src="icons-svg/responsive.svg">
+    <img width="52" src="icons-svg/html.svg" title="HTML">
+    <img width="52" src="icons-svg/css.svg" title="CSS">
+    <img width="52" src="icons-svg/javascript.svg" title="JavaScript">
+    <img width="52" src="icons-svg/typescript.svg" title="TypeScript">
+    <img width="52" src="icons-svg/cypress.svg" title="Cypress">
+    <img width="52" src="icons-svg/cucumber.svg" title="Cucumber">
+    <img width="52" src="icons-svg/playwright.svg" title="Playwright">
+    <img width="52" src="icons-svg/robotframework.svg" title="Robot Framework">
+    <img width="52" src="icons-svg/postman.svg" title="Postman">
+    <img width="52" src="icons-svg/api.svg" title="API">
+    <img width="52" src="icons-svg/jenkins.svg" title="Jenkins">
+    <img width="52" src="icons-svg/jira.svg" title="Jira">
+    <img width="52" src="icons-svg/git.svg" title="Git">
+    <img width="52" src="icons-svg/gitlab.svg" title="Gitlab">
+    <img width="52" src="icons-svg/github.svg" title="Github">
+    <img width="52" src="icons-svg/visualstudio.svg" title="Visual Studio Code">
+    <img width="52" src="icons-svg/agile.svg" title="Agile">
+    <img width="52" src="icons-svg/responsive.svg" title="Responsive design">
 </div>
 
 ## 📜 Certifications<div style='border:1px solid grey'></div>
