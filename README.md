@@ -13,11 +13,11 @@ Bonne visite ! 😄
 
 ### 🎞️ E2E & UI Testing
 
-- <u>[To-do List - Cypress](https://github.com/qa-portfolio/todo-list-cypress-test-ui)</u>
+- <u>[To-do List - Cypress](https://github.com/allanRolle/todo-list-cypress-test-ui)</u>
 
 ## 📝 Mémento<div style='border:1px solid grey'></div>
 
-- <u>[A list of questions / answers to prepare for interviews](https://github.com/qa-portfolio/qa-memento)</u>
+- <u>[A list of questions / answers to prepare for interviews](https://github.com/allanRolle/qa-memento)</u>
 
 ## 🛠 Stack technique<div style='border:1px solid grey'></div>
 
@@ -40,6 +40,7 @@ Bonne visite ! 😄
     <img width="52" src="icons-svg/visualstudio.svg" title="Visual Studio Code">
     <img width="52" src="icons-svg/agile.svg" title="Agile">
     <img width="52" src="icons-svg/responsive.svg" title="Responsive design">
+    <img width="52" src="icons-svg/ai.svg" title="Artificial Intelligence">
 </div>
 
 ## 📜 Certifications<div style='border:1px solid grey'></div>
