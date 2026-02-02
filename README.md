@@ -14,6 +14,7 @@ Bonne visite ! 😄
 ### 🎞️ E2E & UI Testing
 
 - <u>[To-do List - Cypress](https://github.com/allanRolle/todo-list-cypress-test-ui)</u>
+- <u>[To-do List - Playwright](https://github.com/allanRolle/todo-list-playwright-tests-ui)</u>
 
 ## 📝 Mémento<div style='border:1px solid grey'></div>
 
