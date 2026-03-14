@@ -13,8 +13,8 @@ Bonne visite ! 😄
 
 ### 🎞️ E2E & UI Testing
 
-- <u>[To-do List - Cypress](https://github.com/allanRolle/todo-list-cypress-test-ui)</u>
-- <u>[To-do List - Playwright](https://github.com/allanRolle/todo-list-playwright-tests-ui)</u>
+- <u>[To-do List - BDD / Gherkin - Cypress](https://github.com/allanRolle/todo-list-cypress-test-ui)</u>
+- <u>[To-do List - BDD / Gherkin - Playwright](https://github.com/allanRolle/todo-list-playwright-tests-ui)</u>
 
 ## 📝 Mémento<div style='border:1px solid grey'></div>
 
@@ -30,7 +30,6 @@ Bonne visite ! 😄
     <img width="52" src="icons-svg/cypress.svg" title="Cypress">
     <img width="52" src="icons-svg/cucumber.svg" title="Cucumber">
     <img width="52" src="icons-svg/playwright.svg" title="Playwright">
-    <img width="52" src="icons-svg/robotframework.svg" title="Robot Framework">
     <img width="52" src="icons-svg/postman.svg" title="Postman">
     <img width="52" src="icons-svg/api.svg" title="API">
     <img width="52" src="icons-svg/jenkins.svg" title="Jenkins">
