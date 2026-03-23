@@ -46,6 +46,7 @@ Bonne visite ! 😄
 ## 📜 Certifications<div style='border:1px solid grey'></div>
 
 - <u>🎓 [Certification ISTQB Foundation](https://app.skillsclub.com/credential/282700-82c18dc359baec985ceda36795c16de20fe98e2876cad0625593b4cdbe638b8a)</u>
+- <u>🎓 [Certification ISTQB Generative AI](https://app.skillsclub.com/credential/291505-e605701d815e5be1f2e4e630e8d2f7e77fb1aae64486475454fc1f8d4a0cd8a3)</u>
 - <u>🎓 [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/snpQmpKDSMany-wy1zeHtw?identity__email=allan.chris.rolle@gmail.com)</u>
 
 ## 📩 Contact<div style='border:1px solid grey'></div>
