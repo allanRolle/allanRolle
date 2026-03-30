@@ -14,7 +14,9 @@ Bonne visite ! 😄
 ### 🎞️ E2E & UI Testing
 
 - <u>[To-do List - BDD / Gherkin - Cypress](https://github.com/allanRolle/todo-list-cypress-test-ui)</u>
+- <u>[Cnarios - Cypress](https://github.com/allanRolle/cnarios-cypress)</u>
 - <u>[To-do List - BDD / Gherkin - Playwright](https://github.com/allanRolle/todo-list-playwright-tests-ui)</u>
+- <u>[Cnarios - Playwright](https://github.com/allanRolle/cnarios-playwright)</u>
 
 ## 📝 Mémento<div style='border:1px solid grey'></div>
 
